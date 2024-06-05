@@ -1,1 +1,5 @@
-This is the first push
+This is the first pus
+
+hThis is the second edit to this file
+Testing in between command and insert mode
+Press ESC to exit from edit to command mode
