@@ -1,1 +1,1 @@
-New branch file : only exist in new-branch.
+New branch file : can exist in main and new-branch.
